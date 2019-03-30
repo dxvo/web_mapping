@@ -1,6 +1,7 @@
 # Visualizing Data with Leaflet
 
-[Link to static page](https://dxvo.github.io/web_mapping/)
+### [Link to static page](https://dxvo.github.io/web_mapping/)
+<br>
 ![image](https://user-images.githubusercontent.com/42792976/55272244-a8595480-5287-11e9-98f1-a709283c4750.png)
 ## Background
 
