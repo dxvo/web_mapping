@@ -1,8 +1,9 @@
 # Visualizing Data with Leaflet
 
 ### [Link to static page](https://dxvo.github.io/web_mapping/)
-<hr>
+
 ![image](https://user-images.githubusercontent.com/42792976/55272244-a8595480-5287-11e9-98f1-a709283c4750.png)
+
 ## Background
 
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. As a new hire, you will be helping them out with an exciting new project!
